@@ -12,9 +12,6 @@
 	<a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">
             <img src="http://img.shields.io/:license-apache-brightgreen.svg" >
         </a>
-	<a>	
-	    <img src="https://img.shields.io/badge/license-apache-green">
-	</a>
 	<a>
             <img src="https://img.shields.io/badge/springBoot-1.5.x__2.x.x-green.svg" >
    	</a>
